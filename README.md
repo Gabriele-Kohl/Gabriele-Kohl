@@ -2,7 +2,7 @@
 <h3 align="center">Possuo 9 anos de experiência na área de TI, com ampla capacidade para análise e resolução de incidentes, juntamente com boas práticas de atendimento ao cliente. Estou sempre buscando novos desafios na área, a fim de aprimorar constantemente meus conhecimentos teóricos e técnicos.</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=gabriele-kohl&label=Profile%20views&color=0e75b6&style=flat" alt="gabriele-kohl" />
+<img src="https://komarev.com/ghpvc/?username=gabriele-kohl-250006140/&label=Profile%20views&color=0e75b6&style=flat" alt="gabriele-kohl" />
 </p>
 
 - 🔭 Atualmente estou trabalhando como **Analista de Rede e Comunicação de Dados**
