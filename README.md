@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou Gabriele Kohl Rodrigues</h1>
-<h3 align="center">Possuo 9 anos de experiência na área de TI, com ampla capacidade para análise e resolução de incidentes, juntamente com boas práticas de atendimento ao cliente. Estou sempre buscando novos desafios na área, a fim de aprimorar constantemente meus conhecimentos teóricos e técnicos.</h3>
+<h3 align="center">Possuo 9 anos de experiência na área de TI, com conehcimento para análise e resolução de incidentes em Telecomunicações, juntamente com boas práticas de atendimento ao cliente. Estou sempre buscando novos desafios na área, a fim de aprimorar constantemente meus conhecimentos teóricos e técnicos.</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=gabriele-kohl&label=Profile%20views&color=0e75b6&style=flat" alt="gabriele-kohl" />
