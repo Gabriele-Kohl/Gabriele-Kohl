@@ -2,7 +2,7 @@
 <h3 align="center">Possuo 9 anos de experiência na área de TI, com ampla capacidade para análise e resolução de incidentes, juntamente com boas práticas de atendimento ao cliente. Estou sempre buscando novos desafios na área, a fim de aprimorar constantemente meus conhecimentos teóricos e técnicos.</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=gabriele-kohl-250006140/&label=Profile%20views&color=0e75b6&style=flat" alt="gabriele-kohl" />
+<img src="https://komarev.com/ghpvc/?username=gabriele-kohl&label=Profile%20views&color=0e75b6&style=flat" alt="gabriele-kohl" />
 </p>
 
 - 🔭 Atualmente estou trabalhando como **Analista de Rede e Comunicação de Dados**
@@ -11,7 +11,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriele-kohl-rodrigues" target="blank">
+<a href="https://linkedin.com/in/gabriele-kohl-rodrigues-250006140" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriele-kohl-rodrigues" height="30" width="40" />
 </a>
 <a href="https://instagram.com/gabrielerkohl" target="blank">
